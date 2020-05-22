@@ -1,9 +1,7 @@
 ### 苹果手机试玩网
 ![试玩](http://shiwan.pro/logo.png)
 
-You can use the [editor on GitHub](https://github.com/judada/shiwan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+苹果手机试玩网主要是介绍一些能够利用手机去赚钱的试玩平台
 
 ### Markdown
 
