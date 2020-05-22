@@ -4,7 +4,6 @@
 苹果手机试玩网主要是介绍一些能够利用手机去赚钱的试玩平台
 
 ### Markdown
-```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 |  ![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客|  ![](http://shiwan.pro/img/chanshike.jpg)  <br/>蝉试客|![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客|![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客
@@ -12,7 +11,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 |  ![](http://shiwan.pro/img/chanshike.jpg)<br/>蝉试客  | ![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客  |![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客|![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客
 | ![](http://shiwan.pro/img/chanshike.jpg)  <br/>蝉试客 |  ![](http://shiwan.pro/img/chanshike.jpg)  <br/>蝉试客|![](http://shiwan.pro/img/chanshike.jpg)<br/>蝉试客 |![](http://shiwan.pro/img/chanshike.jpg) <br/>[蝉试客](http://shiwan.pro/chanshike.html "蝉试客")
 
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
