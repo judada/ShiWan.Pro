@@ -6,7 +6,7 @@
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-|  ![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客|  ![](http://shiwan.pro/img/chanshike.jpg)  <br/>蝉试客|![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客|![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客
+|  ![](http://shiwan.pro/img/chanshike.jpg) <br/>[蝉试客](http://csk1.jinchanzhuanqian.com/?uid=3397474 "蝉试客")|  ![](http://shiwan.pro/img/duoduoshiwan.png)  <br/>[多多试玩](http://www.duoduo366.com/?r=819813954&d=20200131&en=fanqe&t=link&m=1&bt=1 "多多试玩")|![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客|![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客
 | ------------ | ------------ | ------------ | ------------ |
 |  ![](http://shiwan.pro/img/chanshike.jpg)<br/>蝉试客  | ![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客  |![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客|![](http://shiwan.pro/img/chanshike.jpg) <br/>蝉试客
 | ![](http://shiwan.pro/img/chanshike.jpg)  <br/>蝉试客 |  ![](http://shiwan.pro/img/chanshike.jpg)  <br/>蝉试客|![](http://shiwan.pro/img/chanshike.jpg)<br/>蝉试客 |![](http://shiwan.pro/img/chanshike.jpg) <br/>[蝉试客](http://shiwan.pro/chanshike.html "蝉试客")
