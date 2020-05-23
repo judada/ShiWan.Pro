@@ -1,5 +1,5 @@
 # 多多试玩_多多试玩下载
-![多多试玩](http://shiwan.pro/img/duoduoshiwan.png "多多试玩") <br/>
+![多多试玩](http://shiwan.pro/img/duoduoshiwan.png "多多试玩") 
 多多红包是一款针对苹果手机的app试玩平台，相比较于其他试玩平台，多多红包对于新用户更为友好，大部分勤奋的新用户都可以在当日做到50+的收益。
 
 #### 多多红包有3个优势：
