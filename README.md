@@ -1,7 +1,5 @@
 ### <center >苹果手机试玩网   </center>
- <center> 
   ![试玩](http://shiwan.pro/logo.png) 
-</center>
 
 苹果手机试玩网主要是介绍一些能够利用手机去赚钱的试玩平台
 
