@@ -1,6 +1,7 @@
-### 苹果手机试玩网 
-#### 一部苹果手机，从零开始做试玩
- > 1. 什么是试玩？ APP厂商花钱给ASO平台，通过刷榜的形式来提高app在AppStore的整体表现（例如排名）。普通用户通过平台接受任务，根据指定关键字去AppStore下载指定app体验。<br/>2.需要什么准备？一部苹果手机，型号7以上；一套实名资料，包括手机号码，支付宝，微信。<br/>3.提现多久到账？大部分平台都是10元起提，有支付宝或者微信，一般1-2天到账，也有部分平台是秒到账。
+### 苹果手机试玩网  
+<hr>
+### 什么是试玩？ 
+APP厂商花钱给ASO平台，通过刷榜的形式来提高app在AppStore的整体表现（例如排名）。普通用户通过平台接受任务，根据指定关键字去AppStore下载指定app体验。
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
