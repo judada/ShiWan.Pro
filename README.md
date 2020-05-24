@@ -6,7 +6,7 @@ APP厂商花钱给ASO平台，通过刷榜的形式来提高app在AppStore的整
 ### 试玩准备
 型号7及以上的苹果手机、appleid账号、实名信息(手机号码、微信支付宝)
 ### 平台推荐
- [![蝉试客pro](http://shiwan.pro/img/chanshike.jpg)](http://shiwan.pro/chanshike.html "蝉试客")  |  [![多多试玩](http://shiwan.pro/img/duoduoshiwan.png)](http://shiwan.pro/duoduoshiwan.html "多多试玩")  |[![小鱼赚钱](http://shiwan.pro/img/xiaoyuzhuanqian.jpg)](http://shiwan.pro/xiaoyuzhuanqian.html "小鱼赚钱") |[![钱咖](http://shiwan.pro/img/qianka.jpg) ](http://shiwan.pro/qianka.html "钱咖")  
+ [![蝉试客pro](http://shiwan.pro/img/chanshike.jpg)](http://shiwan.pro/chanshike.html "蝉试客")  |  [![多多试玩](http://shiwan.pro/img/duoduoshiwan.png)](http://shiwan.pro/duoduoshiwan.html "多多试玩")  |[![小鱼赚钱](http://shiwan.pro/img/xiaoyuzhuanqian.jpg)](http://shiwan.pro/xiaoyuzhuanqian.html "小鱼赚钱") |[![钱咖](http://shiwan.pro/img/qianka.jpg) ](http://shiwan.pro/qianka.html "钱咖")|[![火箭试玩](http://shiwan.pro/img/huojianshiwan.jpg) ](http://shiwan.pro/huojianshiwan.html "火箭试玩")
 
 
 
