@@ -8,7 +8,7 @@ APP厂商花钱给ASO平台，通过刷榜的形式来提高app在AppStore的整
 二手苹果机子是个不错的选择，国行7 二手的价格一般在600-900左右
 
 ### 平台推荐
-> [![蝉试客pro](http://shiwan.pro/img/chanshike.jpg)](http://shiwan.pro/chanshike.html "蝉试客")  |  [![多多试玩](http://shiwan.pro/img/duoduoshiwan.png)](http://shiwan.pro/duoduoshiwan.html "多多试玩")  |[![小鱼赚钱](http://shiwan.pro/img/xiaoyuzhuanqian.jpg)](http://shiwan.pro/xiaoyuzhuanqian.html "小鱼赚钱") |[![钱咖](http://shiwan.pro/img/qianka.jpg) ](http://shiwan.pro/qianka.html "钱咖")|[![火箭试玩](http://shiwan.pro/img/huojianshiwan.jpg) ](http://shiwan.pro/huojianshiwan.html "火箭试玩")
+[![蝉试客pro](http://shiwan.pro/img/chanshike.jpg)](http://shiwan.pro/chanshike.html "蝉试客")  |  [![多多试玩](http://shiwan.pro/img/duoduoshiwan.png)](http://shiwan.pro/duoduoshiwan.html "多多试玩")  |[![小鱼赚钱](http://shiwan.pro/img/xiaoyuzhuanqian.jpg)](http://shiwan.pro/xiaoyuzhuanqian.html "小鱼赚钱") |[![钱咖](http://shiwan.pro/img/qianka.jpg) ](http://shiwan.pro/qianka.html "钱咖")|[![火箭试玩](http://shiwan.pro/img/huojianshiwan.jpg) ](http://shiwan.pro/huojianshiwan.html "火箭试玩")
  
 试玩平台良莠不齐，我们着重选择一些有实力，信誉优良的平台去玩。
 
